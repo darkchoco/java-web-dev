@@ -1,0 +1,13 @@
+= java-web-dev
+:toc:
+
+== References
+=== Jetty
+* https://docs.huihoo.com/jetty/the-definitive-reference/jetty-maven-plugin.html[Configuring the Jetty Maven Plugin]
+* https://www.baeldung.com/deploy-to-jetty[Deploying Web Applications in Jetty]
+* https://javapointers.com/how-to/add-maven-jetty-plugin/[How to add Maven Jetty Plugin]
+* https://examples.javacodegeeks.com/enterprise-java/jetty/maven-jetty-plugin-example/[Maven Jetty Plugin Example]
+* https://linuxism.ustd.ip.or.kr/1024[Maven을 이용한 웹 어플리케이션 개발 및 Jetty 연동법]
+
+=== Chap 02.
+* https://www.baeldung.com/maven-java-version[Setting the Java Version in Maven]
