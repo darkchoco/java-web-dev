@@ -16,6 +16,6 @@
   <modules>
     <module>ch02</module>
     <module>ex01-hello-servlet</module>
+    <module>simple-bbs</module>
   </modules>
-
 </project>
