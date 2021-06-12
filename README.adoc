@@ -1,4 +1,4 @@
-= java-web-dev
+= Java Web Development
 :toc:
 
 == Chapter 02.
